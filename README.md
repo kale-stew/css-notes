@@ -20,7 +20,7 @@
     4. [Drop Shadows & Filters](https://github.com/kale-stew/css-notes/blob/master/Styling%20Boxes/README.md/##drop-shadows)
 
 * CSS Layout
-    1. [Viewport](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
-    2. [Float & Position](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
-    3. [Get to know the Grid](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
-    4. [Manipulating Content with FlexBox](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
+    1. [Viewport](https://github.com/kale-stew/css-notes/blob/master/Styling%20Layouts/README.md/##)
+    2. [Float & Position](https://github.com/kale-stew/css-notes/blob/master/Styling%20Layouts/README.md/##)
+    3. [Get to know the Grid](https://github.com/kale-stew/css-notes/blob/master/Styling%20Layouts/README.md/##)
+    4. [Manipulating Content with FlexBox](https://github.com/kale-stew/css-notes/blob/master/Styling%20Layouts/README.md/##)
