@@ -1,42 +1,26 @@
 # Cascading Style Sheets (CSS)
 
 ## Table of Contents:
-1. The Basics
+* The Basics
+    1. [Specificity](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)
+    2. [Rules of CSS](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)
+    3. [Cascade & Inheritance](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)
+    4. [Box Model Basics](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)
 
-    a) Specificity
+* Styling Text
+    1. [Font, Boldness, Italic](https://github.com/kale-stew/css-notes/blob/master/Styling%20Text/README.md/##)
+    2. [Line & Letter Spacing](https://github.com/kale-stew/css-notes/blob/master/Styling%20Text/README.md/##) 
+    3. [Drop Shadows](https://github.com/kale-stew/css-notes/blob/master/Styling%20Text/README.md/##)
+    4. [Lists & Links](https://github.com/kale-stew/css-notes/blob/master/Styling%20Text/README.md/##)
 
-    b) Rules of CSS
+* Styling Boxes
+    1. [Padding, Borders, Margins](https://github.com/kale-stew/css-notes/blob/master/Styling%20Boxes/README.md/#padding-borders-margins)
+    2. [Colors](https://github.com/kale-stew/css-notes/blob/master/Styling%20Boxes/README.md/##colors)
+    3. [Images](https://github.com/kale-stew/css-notes/blob/master/Styling%20Boxes/README.md/##images)
+    4. [Drop Shadows & Filters](https://github.com/kale-stew/css-notes/blob/master/Styling%20Boxes/README.md/##drop-shadows)
 
-    c) Cascade & Inheritance
-
-    d) Box Model Basics
-
-2. Styling Text
-
-    a) Font, Boldness, Italic
-
-    b) Line & Letter Spacing 
-
-    c) Drop Shadows
-
-    d) Lists & Links
-
-3. Styling Boxes
-
-    a) Padding, Borders, Margins
-
-    b) Colors
-
-    c) Images
-
-    d) Drop Shadows & Filters
-
-4. CSS Layout
-
-    a) Viewport
-
-    b) Float & Position
-
-    c) Get to know the Grid
-
-    d) Manipulating Content with FlexBox
+* CSS Layout
+    1. [Viewport](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
+    2. [Float & Position](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
+    3. [Get to know the Grid](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
+    4. [Manipulating Content with FlexBox](https://github.com/kale-stew/css-notes/blob/master/CSS%20Layouts/README.md/##)
