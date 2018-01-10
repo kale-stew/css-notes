@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 * The Basics
-    1. [Specificity](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)
+    1. [Specificity](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/#css-specificity)
     2. [Rules of CSS](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)
     3. [Cascade & Inheritance](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)
     4. [Box Model Basics](https://github.com/kale-stew/css-notes/blob/master/The%20Basics/README.md/##)

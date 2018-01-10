@@ -1,21 +1,21 @@
 # The Basics of CSS
 
 1. The Basics
-    - [Specificity](##CSS-specificity)
+    - [Specificity](##css-specificity)
     - [Rules of CSS]()
     - [Cascade & Inheritance]()
     - [Box Model Basics]()
 
 ## CSS Specificity 
 
- Specificity is the set of rules that decides which style should dominate. This can be calculated by `selector types`. Each selector types' value ranges over a scale.
+Specificity is the set of rules that decides which style should dominate. This can be calculated by `selector types`. Each selector types' value ranges over a scale.
     
-    Specificity | Points | Example
-    ----------- | ------ | -------
-    Most specific | 1000 pts. | inline styling
-    Moderately specific | 100 pts. | id
-    Less specific | 10 pts. | class, pseudo-class, attribute
-    Least specific | 1 pt. | elements
+Specificity | Points | Example
+----------- | ------ | -------
+Most specific | 1000 pts. | inline styling
+Moderately specific | 100 pts. | id
+Less specific | 10 pts. | class, pseudo-class, attribute
+Least specific | 1 pt. | elements
 
 As CSS reads from top to bottom, these selectors will introduce a specific ranking to a stylesheet; style priorities.
 
